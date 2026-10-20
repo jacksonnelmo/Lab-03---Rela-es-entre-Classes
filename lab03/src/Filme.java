@@ -21,7 +21,7 @@ public class Filme {
 
     @Override
     public String toString() {
-        return nome + ", " + anoDeLancamento + localParaAssistir;
+        return nome + ", " + anoDeLancamento + "\n" + localParaAssistir;
     }
 
 @Override
